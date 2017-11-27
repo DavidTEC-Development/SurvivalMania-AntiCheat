@@ -1,0 +1,9 @@
+name: SurvivalMania-AntiCheat
+version: 1.0
+author: DavidTEC
+main: com.SurvivalMania.AntiCheat.main
+
+commands:
+  discord:
+    description: EXAMPLE COMMAND
+    permissions: EXAMPLE.PERMISSION
