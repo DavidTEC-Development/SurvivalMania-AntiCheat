@@ -1,4 +1,5 @@
 # SurvivalMania-AntiCheat
+This can only be updated by a Head Developer, Co-Owner or Owner.  
 
 ## Rules Of Usage And Development
 **1:** This can only be used in the SurvivalMania server.  
@@ -8,10 +9,15 @@
 **5:** Only edit the README.md from the Github editor.  
 **6:** If there are any updates to the README.md, send the updated README.md's contents to DavidTEC to approve and add the new lines, etc.  
 
+## Build Log
+Build 27/11/2017 - 8:02 PM Brisbane Time.  
+ - Added **USERS** Hashmap Added By **DavidTEC**  
+ - Added a JoinLeave listener Added By **DavidTEC**  
+
 ## Development Group
 **Owner:** Wolffy  
 **Co-Owner:** Icecreambacin  
-**Head Developer:** EpicMCGamingYT 
+**Head Developer:** EpicMCGamingYT  
 **Developers:** DavidTEC 
 
 ## This projects Developers
@@ -23,7 +29,7 @@ Please note that this may change if an owner or co-owner says so.
 ## Development Table
 | Developer     | Task                 | Done? |
 | ------------- |:--------------------:|-------|
-| DavidTEC      | Getting this to work | Yes   |
+| DavidTEC      | Multi-Class Source   | Yes   |
 | DavidTEC      | Make staff notifier  | Yes   |
 | DavidTEC      | Make xRay Tests      | Yes   |
 
