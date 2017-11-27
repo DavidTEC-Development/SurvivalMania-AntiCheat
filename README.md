@@ -21,11 +21,11 @@
 Please note that this may change if an owner or co-owner says so.  
 
 ## Development Table
-| Developer     | Task                 |
-| ------------- |:--------------------:|
-| DavidTEC      | Getting this to work |
-| DavidTEC      | Make staff notifier  |
-| DavidTEC      | Make xRay Tests      |
+| Developer     | Task                 | Done? |
+| ------------- |:--------------------:|-------|
+| DavidTEC      | Getting this to work | Yes   |
+| DavidTEC      | Make staff notifier  | Yes   |
+| DavidTEC      | Make xRay Tests      | Yes   |
 
 ## Permissions
 Currently there are **no** permissions.  
