@@ -24,15 +24,17 @@ Please note that this may change if an owner or co-owner says so.
 | Developer     | Task                 |
 | ------------- |:--------------------:|
 | DavidTEC      | Getting this to work |
-| DaviidTEC     | Make staff notifier  |
+| DavidTEC      | Make staff notifier  |
+| DavidTEC      | Make xRay Tests      |
 
 ## Permissions
 Currently there are **no** permissions.  
 
 ## Upcomming Tasks
-[ ] Make the notifier
-[ ] Make the Speed tests
-[ ] Make the Fly tests
-[ ] Make the Glide tests
-[ ] Make the KillAura tests
-[ ] Make the Phase tests
+[-] Make the notifier  
+[-] Make the xRay Tests  
+[ ] Make the Speed tests  
+[ ] Make the Fly tests  
+[ ] Make the Glide tests  
+[ ] Make the KillAura tests  
+[ ] Make the Phase tests  
